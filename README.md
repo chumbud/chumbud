@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://rem.s-ul.eu/cqgJf03x.gif" align="left">
+<img src="https://rem.s-ul.eu/rhLHz84R.gif" align="left">
 <p align="center"><strong>✨HELLO :)✨</strong></p>
 <p align="left">happy you stopped by! i'm pj. i'm a product designer at DonorsChoose helping address education inequalities by getting teachers and students the funding they need to make the most of their K-12 education. i grew up on deviantArt and Runescape as a kid. i wish the internet regressed to the days of custom css profiles and phpBB forums. this readme is the closest i can get.</p>
 </p>
